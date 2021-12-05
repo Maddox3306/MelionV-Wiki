@@ -1,5 +1,5 @@
 ---
-description: Das ist das offizielle Wiki zum FiveM Server MelionV!
+description: Das ist der offizielle Guide zum FiveM Server MelionV!
 ---
 
 # Willkommen
